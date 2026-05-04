@@ -5,7 +5,7 @@ Ordena un array usando Bubble Sort y luego elimina los duplicados
 sin usar funciones nativas como sorted() o set().
 
 Ejecución:
-    python solution.py
+    python prueba1.py
 """
 
 def bubble_sort(arr):
